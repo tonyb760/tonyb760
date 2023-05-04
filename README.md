@@ -17,7 +17,9 @@ Welcome To My Git
 <p>
   <p>
 <div align="left">
+  <h2>
  :man_technologist: About Me :
+  </h2>
   <br>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
   <p>
@@ -33,8 +35,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p>
      
   </div>
-<div align="left">  
+<div align="left"> 
+  <h2>
  :hammer_and_wrench: Languages and Tools :
+  </h2>
+  
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
