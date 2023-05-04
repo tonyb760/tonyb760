@@ -13,7 +13,8 @@ Welcome To My Git
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-__________________________________________________________________________________________________________________________
+<p>
+<p>
   <p>
 <div align="left">
  :man_technologist: About Me :
@@ -28,7 +29,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </div>
   <p>
     <div align="center">
- __________________________________________________________________________________________________________________________
+<p>
+<p>
      
   </div>
 <div align="left">  
@@ -46,8 +48,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
     <div align="center">
- __________________________________________________________________________________________________________________________
-     
+<p>
+<p>
   </div>
 
 ### :fire: My Stats :
