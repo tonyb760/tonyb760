@@ -21,9 +21,10 @@ Welcome To My Git
  :man_technologist: About Me :
   </h2>
   <br>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-  <p>
-  - :telescope: I am currently freelancing and contributing to frontend and backend for building web applications.
+I am an upcoming Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya <img src="https://www.animatedimages.org/data/media/798/animated-kenya-flag-image-0001.gif" width="40">
+<br>
+ 
+- :telescope: I am currently freelancing and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
