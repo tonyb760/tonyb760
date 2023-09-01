@@ -35,7 +35,7 @@ I am an upcoming Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonyb760&theme=onedark" alt="tonyb760" /></a> </p>
 
-<p><script src="https://tryhackme.com/badge/176413"></script></p>
+<p><a href="https://tryhackme.com/badge/176413"></p>
 
      
   </div>
